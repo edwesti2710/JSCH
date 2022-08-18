@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
 
-*{
+* {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
     user-select: none;
@@ -13,8 +13,8 @@ body {
     min-height: 100vh;
     background-color: #D4F6CC;
     display: grid;
-    grid-template-areas:    "header"
-                            "main";
+    grid-template-areas: "header"
+        "main";
     grid-template-rows: 50% 50%;
 }
 
